@@ -1,0 +1,7 @@
+Matrix Size : 500 x 500
+
+Sequential Time : 1.82 sec
+
+Parallel Time : 0.54 sec
+
+Speedup : 3.37x
