@@ -2,9 +2,8 @@
 
 ## Nama Anggota
 
-- Nama Teman Lu
-- Nama Anggota 2
-- Nama Anggota 3
+- FIQRI 
+- IQBAL
 
 ## Deskripsi Proyek
 
@@ -39,4 +38,4 @@ Program menghasilkan perbandingan waktu eksekusi antara metode sequential dan pa
 
 ## Video Presentasi
 
-Masukkan Link YouTube Di Sini
+LINK YT ADA DI LAPORAN
